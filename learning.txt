@@ -1,1 +1,2 @@
+["What I have learned from this course"]
 echo "I have learned how to use Git and GitHub to manage projects, collaborate with others, and track changes in code. Understanding version control is helping me become more confident in software development workflows." > learning.txt
